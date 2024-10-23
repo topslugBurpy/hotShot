@@ -1,7 +1,7 @@
-# Outshots
+# HotShot
 
 ## Description
-Outshots is a dynamic news application that provides users with the latest news from around the world. Built with React JavaScript and powered by a third-party news API, Outshots ensures that users are always up-to-date with the most recent and relevant news stories.
+HotShot is a dynamic news application that provides users with the latest news from around the world. Built with React JavaScript and powered by a third-party news API, HotShot ensures that users are always up-to-date with the most recent and relevant news stories.
 
 ## Features
 - **Worldwide News**: Get the latest news from around the globe.
@@ -12,7 +12,7 @@ Outshots is a dynamic news application that provides users with the latest news 
 - **Third-Party News API**: Leverages a robust third-party news API for reliable and comprehensive news data.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Gaurav237/HotShots.git`
+1. Clone the repository: `git clone https://github.com/topslugBurpy/hotShot`
 2. Navigate to the project directory: `cd HotShots`
 3. Install the dependencies: `npm install`
 4. Start the server: `npm run dev`
